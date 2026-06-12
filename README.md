@@ -1,5 +1,3 @@
-<h1 align="left">Hey 👋</h1>
-
 ###
 
 <p align="left">Analista de datos con mente científica, una perspectiva muy pragmática y un enfoque obsesivo por estructurar y ordenar datos, entender el origen de las cosas y simplificar procesos.</p>
