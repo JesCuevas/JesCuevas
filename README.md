@@ -1,6 +1,6 @@
 ###
 
-<p align="left">Analista de datos con mente científica, una perspectiva muy pragmática y un enfoque obsesivo por estructurar y ordenar datos, entender el origen de las cosas y simplificar procesos.</p>
+<p align="left">Analista de datos con mente científica, una perspectiva muy pragmática y un enfoque obsesivo por estructurar y ordenar datos, entender el origen de las cosas y simplificar procesos. Experiencia implementando pipelines de datos en AWS (S3, Glue), bases de datos SQL, automatización con Python y creación de dashboards de negocio en Power BI y Looker Studio. </p>
 
 ###
 
