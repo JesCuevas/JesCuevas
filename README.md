@@ -1,31 +1,35 @@
-###
+# ¡Hola! Soy Jess 👋 
+### Data Analyst | Data Engineering & Cloud Enthusiast (AWS)
 
-<p align="left">Analista de datos con mente científica, una perspectiva muy pragmática y un enfoque obsesivo por estructurar y ordenar datos, entender el origen de las cosas y simplificar procesos. Experiencia implementando pipelines de datos en AWS (S3, Glue), bases de datos SQL, automatización con Python y creación de dashboards de negocio en Power BI y Looker Studio. </p>
+Apasionada por transformar datos complejos en decisiones estratégicas de negocio. Mi trayectoria combina rigor metodológico, habilidades cuantitativas en **Python, SQL y AWS**, y una fuerte orientación a resolver problemas en **retail, ventas y estrategia comercial**.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 📬 Conectemos:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/jess-cuevas-c)
+[![Hotmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](jes.cuevas@hotmail.com)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+### 🎯 Áreas de Enfoque
+* **Procesamiento y Modelado de Datos:** Análisis exploratorio (EDA), limpieza y construcción de modelos predictivos / clustering en Python.
+* **Arquitectura & Cloud (AWS):** Diseños serverless para Data Lakes (S3, Glue, Athena, RDS PostgreSQL).
+* **Business Intelligence & Visualización:** Creación de tableros ejecutivos interactivos, métricas de negocio (KPIs) y Data Storytelling.
 
-###
+---
+
+### 🛠️ Habilidades Técnicas
+
+| Categoría | Tecnologías / Herramientas |
+| :--- | :--- |
+| **Lenguajes & Base de Datos** | Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL) |
+| **Infraestructura Cloud** | AWS (S3, Glue, Athena, IAM, RDS) |
+| **Visualización & BI** | Power BI, Looker Studio, Matplotlib, Seaborn |
+| **Herramientas de Trabajo** | Git, GitHub, Visual Studio Code, Jupyter Notebooks |
+
+---
+
+### 📂 Proyectos Destacados
+* 📊 **[Análisis de Ventas y Estrategia Comercial (Reckitt)](#)** - Pipeline ETL end-to-end en AWS (S3/Glue/Athena) y Dashboard interactivo.
+* 🎮 **[Análisis Global de Ventas de Videojuegos](#)** - Exploración de patrones regionales, plataformas y tendencias por género.
+* 🛡️ **[Clustering y Series de Tiempo en Incidencia Delictiva](#)** - Modelado SARIMAX y K-Means para segmentación de riesgo geográfico.
